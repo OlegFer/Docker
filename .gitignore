@@ -21,6 +21,7 @@ build/
 out/
 .idea/
 .data/
+Docker.iml
 
 ### NetBeans ###
 /nbproject/private/
